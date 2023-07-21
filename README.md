@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently seeking for job as **Software developer**
 
-- 🌱 I’m currently learning **JavaScript, SpringBoot, Hibernate, Thymeleaf**
+- 🌱 I’m currently learning **Java, SpringBoot, Hibernate, Thymeleaf**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sallu-Salman](https://github.com/Sallu-Salman)
 
