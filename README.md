@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm <strong>Salman</strong></h1>
-<h3 align="center">A problem-solving-oriented Java developer.</h3>
+<h3 align="center">A friendly neighbourhood developer</h3>
 <img align="right" alt="Coder" src="https://img.icons8.com/?size=512&id=J5YiZgNDKLbK&format=png" width="300" >
 
-- 🔭 I’m currently seeking for job as **Software developer**
+- 🔭 I’m a **Software developer**
 
-- 🌱 I’m currently learning **Java, SpringBoot, Hibernate, Thymeleaf**
+- 🌱 I’m currently working with **Java, SpringBoot, Go, and more...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sallu-Salman](https://github.com/Sallu-Salman)
+
+- 📖 Read my articles at [https://medium.com/@sallu-salman](https://medium.com/@sallu-salman)
 
 - 💬 Ask me about **Java, Problem Solving**
 
 - 📫 How to reach me **salman_mohamed2023@outlook.com**
-
-- ⚡ Fun fact **Life as a Java developer is a constant rollercoaster of problem-solving adventures. Buckle up and enjoy the ride!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
